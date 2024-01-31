@@ -1,8 +1,8 @@
-# YoutubeDowmloader
+# YoutubeDownloader
 
-`❯ python3 -m venv YoutubeDowmloader`
-`❯ source YoutubeDowmloader/bin/activate`
+`❯ python3 -m venv YoutubeDownloader`
+`❯ source YoutubeDownloader/bin/activate`
 `❯ pip install --upgrade pip`
-`❯ cd YoutubeDowmloader`
+`❯ cd YoutubeDownloader`
 `❯ pip install pytube`
 `❯ pip install pick`
